@@ -1,8 +1,10 @@
 ### 👨‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan
 - :man_student: 2nd year student of the University
-- :: I am learning English
+- :globe_with_meridians: I am learning English
 - :chocolate_bar: I love chocolate, especially "snikers"
+- :soccer: I like football, I am a former football player
+- :video_game: I play games
 
 ---
 ### :hammer_and_pick: Languages and Tools :
