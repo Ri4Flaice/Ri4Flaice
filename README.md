@@ -1,7 +1,7 @@
 ### 👨‍💻 About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan
 - :man_student: 3nd year student of the University
-- Working development environment: VS Code <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30">
+- Working development environment: VS Code <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="15">
 ---
 ### :hammer_and_pick: Languages and Tools :
 <div>
