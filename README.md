@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan
-- :man_student: 2nd year student of the University
+- :man_student: 3nd year student of the University
 ---
 ### :hammer_and_pick: Languages and Tools :
 <div>
