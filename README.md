@@ -8,8 +8,7 @@ Backend developer
 ---
 Level of proficiency in programming languages: 
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="20" height="20" alt="Python" /></a> Python - Junior 
-
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="20" height="20" alt="Python" /></a> Python - Junior. 
 Worked with libraries such as: pyautogui, pytesseract, openCV, requests, PIL and much more. 
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="20" height="20" alt="Python" /></a> Git - Junior 
