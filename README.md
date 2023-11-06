@@ -8,7 +8,7 @@ Backend developer
 ---
 * 🌍  I'm based in Kazakhstan, SKO, Petropavlovsk
 * ✉️  You can contact me at [2akkforsomething@gmail.com](mailto:2akkforsomething@gmail.com)
-* 🧠  I'm learning SQL
+* 🧠  I'm learning C#
 
 
 ---
