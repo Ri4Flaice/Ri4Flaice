@@ -22,7 +22,7 @@ Backend developer
 </p>
 
 ---
-### :cold_face: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ri4Flaice&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 
