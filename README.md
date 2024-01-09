@@ -1,5 +1,5 @@
 ### 👨‍💻 About Me :
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Damir
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
 Backend developer
@@ -8,7 +8,6 @@ Backend developer
 ---
 * 🌍  I'm based in Kazakhstan, SKO, Petropavlovsk
 * ✉️  You can contact me at [2akkforsomething@gmail.com](mailto:2akkforsomething@gmail.com)
-* 🧠  I'm learning C#
 
 
 ---
