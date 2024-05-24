@@ -1,8 +1,3 @@
-### 👨‍💻 About Me :
-Backend developer
-
-
----
 ### ⚒️ Language and Tools
 
 <p align="left">
@@ -16,7 +11,4 @@ Backend developer
 
 ---
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ri4Flaice&theme=tokyonight-duo)](https://git.io/streak-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ri4Flaice&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
