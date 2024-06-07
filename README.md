@@ -1,4 +1,4 @@
-## ⚒️ Language and Tools
+## ⚒️ Language and Tools:
 
 <p align="left">
 <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/csharp/csharp.svg" width="40" height="40" alt="C#" /></a>
@@ -13,5 +13,5 @@
 ### Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ri4Flaice&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-### Progress roadmap
+### Progress roadmaps
 [![roadmap.sh](https://roadmap.sh/card/tall/665483a9d6b907c7f7fb7218?variant=dark)](https://roadmap.sh)
