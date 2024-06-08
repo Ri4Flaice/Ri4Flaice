@@ -12,6 +12,3 @@
 ## Stats:
 ### Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ri4Flaice&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-### Progress roadmaps
-[![roadmap.sh](https://roadmap.sh/card/tall/665483a9d6b907c7f7fb7218?variant=dark)](https://roadmap.sh)
