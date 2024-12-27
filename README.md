@@ -8,6 +8,7 @@
 <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/postgresql/postgresql.svg" width="40" height="40" alt="PostgreSQL" /></a>
 <a href="" target="_blank" rel="noteferrer"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/docker/docker.webp" width=55 height=40 alt="Docker"/></a>
 <a href="" target="_blank" rel="noteferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/redis/redis.svg" width=55 height=40 alt="Redis"/></a>
+<a href="" target="_blank" rel="noteferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width=55 height=40 alt="Kafka"/></a>
 </p>
 
 ## Stats:
