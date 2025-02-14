@@ -1,15 +1,15 @@
 ## ⚒️ Languages and Tools:
 
 <p align="left">
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/csharp/csharp.svg" width="40" height="40" alt="C#" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/python/python.svg" width="40" height="40" alt="Python" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/js/js.svg" width="40" height="40" alt="JS" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/technology/csharp/csharp.svg" width="40" height="40" alt="C#" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/technology/python/python.svg" width="40" height="40" alt="Python" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/technology/js/js.svg" width="40" height="40" alt="JS" /></a>
 
 <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" width="40" height="40" alt="DotNet" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/git/git.svg" width="40" height="40" alt="Git" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/postgresql/postgresql.svg" width="40" height="40" alt="PostgreSQL" /></a>
-<a href="" target="_blank" rel="noteferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/redis/redis.svg" width=55 height=40 alt="Redis"/></a>
-<a href="" target="_blank" rel="noteferrer"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/docker/docker.webp" width=55 height=40 alt="Docker"/></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/technology/git/git.svg" width="40" height="40" alt="Git" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/technology/postgresql/postgresql.svg" width="40" height="40" alt="PostgreSQL" /></a>
+<a href="" target="_blank" rel="noteferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/technology/redis/redis.svg" width=55 height=40 alt="Redis"/></a>
+<a href="" target="_blank" rel="noteferrer"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/technology/docker/docker.webp" width=55 height=40 alt="Docker"/></a>
 <a href="" target="_blank" rel="noteferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width=55 height=40 alt="Kafka"/></a>
 </p>
 
