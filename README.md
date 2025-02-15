@@ -3,14 +3,14 @@
 ``` csharp
 var developerCurrentThoughts = new Thought
 {
-  Passion = "Convert data into user-friendly solutions.",
-  Strength = new Strength
-  {
-    "Architecture",
-    "Efficiency",
-    "Automation"
-  },
-  FunFact = "Sometimes it seems that debag is a dialogue with oneself."
+    Passion = "Convert data into user-friendly solutions.",
+    Strength = new List<string>
+    {
+        "Architecture",
+        "Efficiency",
+        "Automation"
+    },
+    FunFact = "Sometimes it seems that debugging is a dialogue with oneself."
 };
 ```
 
