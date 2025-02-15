@@ -1,26 +1,27 @@
-## ⚒️ Languages and Tools:
+# 💫 About Me:
 
-<p align="left">
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/technology/csharp/csharp.svg" width="40" height="40" alt="C#" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/technology/python/python.svg" width="40" height="40" alt="Python" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/technology/js/js.svg" width="40" height="40" alt="JS" /></a>
+``` csharp
+var developerCurrentThoughts = new Thought
+{
+  Passion = "Convert data into user-friendly solutions.",
+  Strength = new Strength
+  {
+    "Architecture",
+    "Efficiency",
+    "Automation"
+  },
+  FunFact = "Sometimes it seems that debag is a dialogue with oneself."
+};
+```
 
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" width="40" height="40" alt="DotNet" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/technology/git/git.svg" width="40" height="40" alt="Git" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/technology/postgresql/postgresql.svg" width="40" height="40" alt="PostgreSQL" /></a>
-<a href="" target="_blank" rel="noteferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/technology/redis/redis.svg" width=55 height=40 alt="Redis"/></a>
-<a href="" target="_blank" rel="noteferrer"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/technology/docker/docker.webp" width=55 height=40 alt="Docker"/></a>
-<a href="" target="_blank" rel="noteferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width=55 height=40 alt="Kafka"/></a>
-</p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ri4Flaice&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ri4Flaice&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ri4Flaice&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Development Approaches
-- REST API  
-- SOLID principles  
-- Object-Oriented Programming (OOP)  
-- Unit Testing  
-- LINQ  
-- Architectural Patterns  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Stats:
-### Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ri4flaice&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
